@@ -71,5 +71,5 @@ import 'package:transformer_page_view/transformer_page_view.dart';
   }
   ```
 
-  [![Watch the video](https://drive.google.com/file/d/1ygxIU4OMdFJyMUwZ-L0K-OLeK8mmWxOb/view)](https://youtu.be/VkDupXC_nPs)
+  [![Watch the video](https://i.ibb.co/jkL90FP/youtube-video.jpg)](https://youtu.be/VkDupXC_nPs)
 
