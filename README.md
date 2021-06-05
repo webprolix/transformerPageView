@@ -1,5 +1,5 @@
 # transformerPageView
-```java
+```javascript
 TransformerPageView(
       loop: true,
       itemBuilder: (BuildContext context, int index) {
