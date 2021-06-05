@@ -71,5 +71,5 @@ import 'package:transformer_page_view/transformer_page_view.dart';
   }
   ```
 
-  [![Watch the video](https://i.ibb.co/jkL90FP/youtube-video.jpg)](https://youtu.be/VkDupXC_nPs)
+  [![Watch the video](http://flutter.webprolix.com/youtube_video.jpg)](https://youtu.be/VkDupXC_nPs)
 
